@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+groq_eval/__init__.py
+groq_eval/evaluator.py
+groq_eval.egg-info/PKG-INFO
+groq_eval.egg-info/SOURCES.txt
+groq_eval.egg-info/dependency_links.txt
+groq_eval.egg-info/requires.txt
+groq_eval.egg-info/top_level.txt
